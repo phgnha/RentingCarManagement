@@ -1,3 +1,10 @@
+ER diagram:
+<img width="887" height="743" alt="image" src="https://github.com/user-attachments/assets/c03844ff-2ca1-4d04-9e74-79dfae12da25" />
+
+Relational Schema(3NF Form):
+<img width="945" height="853" alt="image" src="https://github.com/user-attachments/assets/06be1fdd-75ff-470a-809e-d74c2b002605" />
+
+
 # Renting Car Management
 
 Hệ thống quản lý cho thuê xe ô tô sử dụng Spring Boot, JPA, MySQL.
@@ -47,3 +54,4 @@ Hệ thống quản lý cho thuê xe ô tô sử dụng Spring Boot, JPA, MySQL.
 - `/api/contract-details` - Quản lý chi tiết hợp đồng
 - `/api/invoices` - Quản lý hóa đơn
 - `/api/persons` - Quản lý thông tin cá nhân
+
